@@ -17,6 +17,6 @@ Then open your browser at http://localhost:3000
 ```
 ## Screenshots
 
-![forecast](./src/images/screenshots/Capture.png) | ![forecast](./src/images/screenshots/Capture1.png)
+![forecast](./src/images/screenshots/Capture.PNG) | ![forecast](./src/images/screenshots/Capture1.PNG)
 :---: | :---:
-![forecast](./src/images/screenshots/Capture2.png) | ![forecast](./src/images/screenshots/Capture3.png)
+![forecast](./src/images/screenshots/Capture2.PNG) | ![forecast](./src/images/screenshots/Capture3.PNG)
